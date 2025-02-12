@@ -1,16 +1,51 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Chathurya Abeyrathna (Chathu)</h1> 
 
-<!--
-**ChathuAbeyrathna/ChathuAbeyrathna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m an IT and Management student at the University of Moratuwa, passionate about developing impactful applications. I love working on projects that help solve real-world problems, and I'm currently focused on building web and mobile applications. 
 
-Here are some ideas to get you started:
+Feel free to check out my repositories, contribute to any of my projects, or just reach out to say hello! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current Projects:
+- **GAMER**: A web app for the gaming community that includes features like game discovery, chat, and user-generated content.
+- **Glidex**: A transportation app focused on optimizing travel experiences.
+- **ACMS (Academic Course Management System)**: A platform for managing IoT field resources and students interactions.
+
+### 💻 Technologies I'm Working With:
+- **Frontend**: React.js, Tailwind CSS, React Native, JSX
+- **Backend**: Spring Boot, Node.js, Express.js
+- **Databases**: MongoDB, MySql
+- **Other Tools**: Git, GitHub, VS Code, Intelij 
+
+---
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chathuabeyrathna&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+<!-- Languages & Tools -->
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,java,spring,python,git,figma,tailwind,aws,gcp,postman" alt="Tech Stack" />
+</p>
+
+---
+
+<!-- Contact & Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/chathurya-abeyrathna-0888b9286/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@mrcdabey" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/chathuabeyrathn1" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-32CD32?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+
