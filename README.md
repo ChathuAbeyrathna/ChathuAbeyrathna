@@ -9,7 +9,7 @@ Feel free to check out my repositories, contribute to any of my projects, or jus
 
 ### 🚀 Current Projects:
 - **GAMER**: A web app for the gaming community that includes features like game discovery, chat, and user-generated content.
-- **Glidex**: A transportation app focused on optimizing travel experiences.
+- **Glidex**: A transportation mobile app focused on optimizing travel experiences.
 - **ACMS (Academic Course Management System)**: A platform for managing IoT field resources and students interactions.
 
 ### 💻 Technologies I'm Working With:
