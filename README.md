@@ -19,6 +19,11 @@ Feel free to check out my repositories, contribute to any of my projects, or jus
 - **Other Tools**: Git, GitHub, VS Code, Intelij 
 
 ---
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chathuabeyrathna&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathuabeyrathna&theme=radical" alt="GitHub Streak" />
+</p>
 
 <!-- Most Used Languages -->
 <p align="center">
