@@ -13,10 +13,13 @@ Feel free to check out my repositories, contribute to any of my projects, or jus
 - **ACMS (Assistive Content Management System)**: A platform for managing IoT field resources and students interactions.
 
 ### 💻 Technologies I'm Working With:
-- **Frontend**: React.js, Tailwind CSS, React Native, JSX
-- **Backend**: Spring Boot, Node.js, Express.js
-- **Databases**: MongoDB, MySql
-- **Other Tools**: Git, GitHub, VS Code, Intelij 
+
+<img align="right" src="https://media.giphy.com/media/kW5yIErRhwj2/giphy.gif" width="150"/>
+
+- **Frontend**: React.js, Tailwind CSS, React Native, JSX  
+- **Backend**: Spring Boot, Node.js, Express.js  
+- **Databases**: MongoDB, MySQL  
+- **Other Tools**: Git, GitHub, VS Code, IntelliJ  
 
 ---
 
