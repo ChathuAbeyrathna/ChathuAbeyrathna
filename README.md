@@ -16,8 +16,8 @@ Feel free to check out my repositories, contribute to any of my projects, or jus
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdrNG9qMmphdnJvZDRoMmF6eWFlOWFrMGoxaGF1cGQ5YXppM2k3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Cq3c0yyomSPx6/giphy.gif" width="155"/>
 
-- **Frontend**: React.js, Tailwind CSS, React Native, JSX  
-- **Backend**: Spring Boot, Node.js, Express.js  
+- **Frontend**: React.js,Angular, Tailwind CSS, React Native, JSX  
+- **Backend**: Spring Boot, Node.js,Nest.js Express.js  
 - **Databases**: MongoDB, MySQL  
 - **Other Tools**: Git, GitHub, VS Code, IntelliJ  
 
