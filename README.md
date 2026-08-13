@@ -26,7 +26,7 @@ Feel free to check out my repositories, contribute to any of my projects, or jus
 <!-- Most Used Languages -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuAbeyrathna&layout=compact&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuAbeyrathna&layout=donut&theme=radical&hide_border=true" 
     alt="Top Languages"
   />
 </p>
