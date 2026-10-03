@@ -34,8 +34,6 @@ For me, it's not just about making something work. **The way it looks, feels, an
 </tr>
 </table>
 
----
-
 <table>
 <tr>
 
@@ -76,7 +74,10 @@ Exploring game development with Unity and C#, from gameplay systems and make a g
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,vue,tailwind,nodejs,nestjs,java,spring,python,mongodb,mysql,git,github,figma,unity,cs&perline=10" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuAbeyrathna&layout=donut&hide_border=true&theme=transparent&langs_count=5" height="165"/>
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuAbeyrathna&layout=donut&theme=radical&hide_border=true" 
+    alt="Top Languages"
+/>
 
 </div>
 
