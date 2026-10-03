@@ -4,27 +4,13 @@
 
 <br>
 
-# Hey, I'm Chathu 👋
+# Hey, I'm Chathurya 👩🏻‍💼
 
 ### I design it. I build it. I make it move.
 
 <br>
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdrNG9qMmphdnJvZDRoMmF6eWFlOWFrMGoxaGF1cGQ5YXppM2k3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Cq3c0yyomSPx6/giphy.gif" width="175"/>
-
-<br><br>
-
-<a href="https://chathurya-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/ChathuAbeyrathna">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/chathurya-abeyrathna-0888b9286/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 <br><br>
 
@@ -52,16 +38,7 @@ I care about both sides of the process: **how something works and how it feels t
 
 <td width="35%" align="center" valign="middle">
 
-```text
-   ✦
-  ╱ ╲
- ╱   ╲
-╱  ✦  ╲
-╲     ╱
- ╲   ╱
-  ╲ ╱
-   ✦
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=900&color=7C3AED&center=true&vCenter=true&width=260&height=120&lines=%F0%9F%8E%A8+DESIGNING;%F0%9F%92%BB+BUILDING;%F0%9F%8E%AE+CREATING;%F0%9F%8C%B1+LEARNING" />
 
 **currently**
 
@@ -131,7 +108,7 @@ Exploring game development with Unity and C#, from gameplay systems and interact
 
 <br>
 
-<a href="#">
+<a href="https://chathurya07.my.canva.site/game-developer">
 <img src="https://img.shields.io/badge/GAME%20DEV%20PORTFOLIO%20%E2%86%92-111111?style=for-the-badge" />
 </a>
 
@@ -176,7 +153,7 @@ Exploring game development with Unity and C#, from gameplay systems and interact
 
 <br><br>
 
-<a href="https://chathurya-portfolio.netlify.app/">
+<a href="https://www.linkedin.com/in/chathurya-abeyrathna-0888b9286/">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK%20%E2%86%97-7C3AED?style=for-the-badge" />
 </a>
 
