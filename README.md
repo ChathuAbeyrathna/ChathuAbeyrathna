@@ -16,6 +16,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 ### 👩‍💻 A little about me
 
 I'm **Chathurya Abeyrathna**, an **Information Technology & Management graduate from the University of Moratuwa**.
@@ -24,13 +28,16 @@ I like taking an idea from a rough thought or sketch and turning it into somethi
 
 I care about both sides of the process: **how something works and how it feels to use.**
 
+</td>
+</tr>
+</table>
+
 ---
 
-<div align="center">
+<table>
+<tr>
 
-<div style="display: inline-flex; width: 100%;">
-
-<div style="width: 50%; text-align: center;">
+<td width="50%" align="center">
 
 ### 💻 Software
 
@@ -42,9 +49,9 @@ Building practical digital experiences with a strong focus on usability, clean i
 <img src="https://img.shields.io/badge/SOFTWARE%20DEV%20PORTFOLIO%20%E2%86%92-111111?style=for-the-badge" />
 </a>
 
-</div>
+</td>
 
-<div style="width: 50%; text-align: center;">
+<td width="50%" align="center">
 
 ### 🎮 Games
 
@@ -56,34 +63,35 @@ Exploring game development with Unity and C#, from gameplay systems and make a g
 <img src="https://img.shields.io/badge/GAME%20DEV%20PORTFOLIO%20%E2%86%92-111111?style=for-the-badge" />
 </a>
 
-</div>
+</td>
 
-</div>
-
-</div>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-<div style="display: inline-flex; width: 100%;">
+<table border="0"> <tr>
 
-<div style="width: 55%; text-align: center; vertical-align: middle;">
+<td width="60%" align="center" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,vue,tailwind,nodejs,nestjs,java,spring,python,mongodb,mysql,git,github,figma,unity,cs&perline=10" />
 
-</div>
+</td>
 
-<div style="width: 45%; text-align: center; vertical-align: middle;">
+<td width="40%" align="center" valign="middle">
+  
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuAbeyrathna&layout=donut&theme=radical&hide_border=true" 
+    alt="Top Languages"
+  />
+</p>
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuAbeyrathna&layout=donut&theme=radical&hide_border=true" 
-alt="Top Languages"
-/>
+</td>
 
-</div>
-
-</div>
+</tr> </table>
 
 </div>
 
@@ -97,27 +105,7 @@ alt="Top Languages"
 
 <br>
 
-<div style="display: inline-flex; width: 100%;">
-
-<div style="width: 50%; text-align: center;">
-
-<a href="https://www.linkedin.com/in/chathurya-abeyrathna-0888b9286/">
-<img src="https://img.shields.io/badge/LINKEDIN%20%E2%86%97-7C3AED?style=for-the-badge" />
-</a>
-
-</div>
-
-<div style="width: 50%; text-align: center;">
-
-<a href="mailto:chathuabeyrathne2001@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL%20%E2%86%97-7C3AED?style=for-the-badge" />
-</a>
-
-</div>
-
-</div>
-
-<br>
+<a href="https://www.linkedin.com/in/chathurya-abeyrathna-0888b9286/"><img src="https://img.shields.io/badge/LINKEDIN%20%E2%86%97-7C3AED?style=for-the-badge" /></a>&nbsp;<a href="mailto:chathuabeyrathne2001@gmail.com"> <img src="https://img.shields.io/badge/EMAIL%20%E2%86%97-7C3AED?style=for-the-badge" /> </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06B6D4,50:7C3AED,100:111827&section=footer&animation=twinkling" width="100%"/>
 
