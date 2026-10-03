@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,50:7C3AED,100:06B6D4&text=CHATHU&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%20%C2%B7%20%20GAME%20DEVELOPER&descAlignY=60&descSize=17&animation=twinkling" width="100%"/>
 
-<br>
-
 # Hey, I'm Chathurya 👩🏻‍💼
 
 ### I design it. I build it. I make it move.
