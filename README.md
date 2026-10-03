@@ -24,9 +24,10 @@
 
 I'm **Chathurya Abeyrathna**, an **Information Technology & Management graduate from the University of Moratuwa**.
 
-I like taking an idea from a rough thought or sketch and turning it into something real, whether that's a web experience, a software system, or a game.
+Somewhere between **design and engineering** is where I enjoy working most. Turning rough ideas and sketches into web experiences, software systems, and games is what keeps things interesting.
 
-I care about both sides of the process: **how something works and how it feels to use.**
+For me, it's not just about making something work. **The way it looks, feels, and interacts matters too.**
+
 
 </td>
 </tr>
@@ -72,26 +73,13 @@ Exploring game development with Unity and C#, from gameplay systems and make a g
 
 <div align="center">
 
-<table border="0"> <tr>
+<br>
 
-<td width="60%" align="center" valign="middle">
+<img src="https://github-readme-stats.vercel.app/api?username=ChathuAbeyrathna&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&custom_title=Chathu%27s%20GitHub" height="165"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,vue,tailwind,nodejs,nestjs,java,spring,python,mongodb,mysql,git,github,figma,unity,cs&perline=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuAbeyrathna&layout=donut&hide_border=true&theme=transparent&langs_count=5" height="165"/>
 
-</td>
-
-<td width="40%" align="center" valign="middle">
-  
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuAbeyrathna&layout=donut&theme=radical&hide_border=true" 
-    alt="Top Languages"
-  />
-</p>
-
-</td>
-
-</tr> </table>
+<br>
 
 </div>
 
