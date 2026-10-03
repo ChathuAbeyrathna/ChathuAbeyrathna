@@ -1,34 +1,34 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,50:7C3AED,100:06B6D4&text=CHATHU&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%20%C2%B7%20%20GAME%20DEVELOPER&descAlignY=60&descSize=17&animation=twinkling" width="100%"/>
+
 <br>
 
 # Hey, I'm Chathu 👋
 
-### Software Engineer · Game Developer · Designer
+### I design it. I build it. I make it move.
 
 <br>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdrNG9qMmphdnJvZDRoMmF6eWFlOWFrMGoxaGF1cGQ5YXppM2k3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Cq3c0yyomSPx6/giphy.gif" width="180"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdrNG9qMmphdnJvZDRoMmF6eWFlOWFrMGoxaGF1cGQ5YXppM2k3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Cq3c0yyomSPx6/giphy.gif" width="175"/>
 
-<br>
-
-**I like turning ideas into things people can actually use, play, and experience.**
-
-<br>
+<br><br>
 
 <a href="https://chathurya-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/chathurya-abeyrathna-0888b9286/">
-  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/ChathuAbeyrathna">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/chathurya-abeyrathna-0888b9286/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=building+digital+experiences;exploring+game+development;designing+with+intention;always+learning+something+new" />
 
 </div>
 
@@ -36,33 +36,39 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 ### ✦ A little about me
 
 I'm **Chathurya Abeyrathna**, an **Information Technology & Management graduate from the University of Moratuwa**.
 
-I enjoy working across the space between **design and engineering**.
+I enjoy being somewhere between **design and engineering**.
 
-From shaping an interface to writing the code behind it, I like understanding the whole picture and making things feel as good as they work.
+I like taking an idea from a rough thought or sketch and turning it into something real, whether that's a web experience, a software system, or a game.
 
-Lately, I've also been diving deeper into **game development**, where software, design and creativity come together in a completely different way.
+I care about both sides of the process: **how something works and how it feels to use.**
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
-### `currently`
+```text
+   ✦
+  ╱ ╲
+ ╱   ╲
+╱  ✦  ╲
+╲     ╱
+ ╲   ╱
+  ╲ ╱
+   ✦
+```
 
-<br>
+**currently**
 
-🎨 **designing**
-
-💻 **building**
-
-🎮 **making games**
-
-🌱 **learning**
+🎨 designing
+💻 building
+🎮 creating
+🌱 learning
 
 </td>
 </tr>
@@ -72,7 +78,7 @@ Lately, I've also been diving deeper into **game development**, where software, 
 
 <div align="center">
 
-## ✦ My toolbox
+## ✦ The toolbox
 
 <br>
 
@@ -80,66 +86,102 @@ Lately, I've also been diving deeper into **game development**, where software, 
 
 <br><br>
 
-<sub>languages · frameworks · tools · things I enjoy building with</sub>
+<sub>the tools I use to turn ideas into things that actually work</sub>
 
 </div>
 
 ---
 
-<div align="center">
+<br>
 
-## ✦ GitHub
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 💻 Software
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChathuAbeyrathna&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuAbeyrathna&layout=donut&hide_border=true&theme=transparent" height="165"/>
+**Ideas → Interfaces → Systems**
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=ChathuAbeyrathna&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-<div align="center">
-
-### ✦ Beyond the screen
-
-<br>
-
-💻 **Software** — building things that solve problems.
-
-   
-
-🎮 **Games** — building worlds, systems and little moments.
-
-   
-
-🎨 **Design** — making the experience feel right.
-
-<br><br>
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for stopping by 👋
-
-**Have a look around. There might be something interesting here.**
+Building practical digital experiences with a strong focus on usability, clean interfaces and thoughtful interaction.
 
 <br>
 
 <a href="https://chathurya-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK%20→-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO%20%E2%86%92-7C3AED?style=for-the-badge" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎮 Games
+
+<br>
+
+**Ideas → Worlds → Experiences**
+
+<br>
+
+Exploring game development with Unity and C#, from gameplay systems and interactions to the little details that make a game feel alive.
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GAME%20DEV%20PORTFOLIO%20%E2%86%92-111111?style=for-the-badge" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ✦ GitHub activity
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChathuAbeyrathna&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&custom_title=Chathu%27s%20GitHub" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuAbeyrathna&layout=donut&hide_border=true&theme=transparent&langs_count=5" height="165"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ChathuAbeyrathna&hide_border=true&theme=transparent&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+
+<br>
+
+<sub>289 contributions · tracking my journey since 2022</sub>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+### ✦ Keep scrolling, there might be something interesting.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1500&color=06B6D4&center=true&vCenter=true&width=450&lines=01001000+01101001+%F0%9F%91%8B;thanks+for+stopping+by;see+you+around+%E2%9C%A8" />
+
+<br><br>
+
+<a href="https://chathurya-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK%20%E2%86%97-7C3AED?style=for-the-badge" />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06B6D4,50:7C3AED,100:111827&section=footer&animation=twinkling" width="100%"/>
 
 </div>
