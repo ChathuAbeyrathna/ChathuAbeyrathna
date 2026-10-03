@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=building+digital+experiences;exploring+game+development;designing+with+intention;always+learning+something+new" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=UI%2FUX+%26+Frontend+Development;Software+%26+Web+Development;Game+Development+with+Unity" />
 
 </div>
 
@@ -72,14 +72,14 @@ Exploring game development with Unity and C#, from gameplay systems and make a g
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,vue,tailwind,nodejs,nestjs,java,spring,python,mongodb,mysql,git,github,figma,unity,cs&perline=10" />
-
-<br><br> 
-
 <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuAbeyrathna&layout=donut&theme=radical&hide_border=true" 
     alt="Top Languages"
 />
+
+<br> 
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,vue,tailwind,nodejs,nestjs,java,spring,python,mongodb,mysql,git,github,figma,unity,cs&perline=10" />
 
 </div>
 
