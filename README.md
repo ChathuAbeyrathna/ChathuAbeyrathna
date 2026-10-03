@@ -28,6 +28,7 @@ Somewhere between **design and engineering** is where I enjoy working most. Turn
 
 For me, it's not just about making something work. **The way it looks, feels, and interacts matters too.**
 
+<br> 
 
 </td>
 </tr>
@@ -73,13 +74,9 @@ Exploring game development with Unity and C#, from gameplay systems and make a g
 
 <div align="center">
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChathuAbeyrathna&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&custom_title=Chathu%27s%20GitHub" height="165"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,vue,tailwind,nodejs,nestjs,java,spring,python,mongodb,mysql,git,github,figma,unity,cs&perline=10" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuAbeyrathna&layout=donut&hide_border=true&theme=transparent&langs_count=5" height="165"/>
-
-<br>
 
 </div>
 
