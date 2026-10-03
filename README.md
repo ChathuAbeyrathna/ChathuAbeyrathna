@@ -65,6 +65,8 @@ Exploring game development with Unity and C#, from gameplay systems and make a g
 
 </td>
 
+<br> 
+
 </tr>
 </table>
 
@@ -74,10 +76,14 @@ Exploring game development with Unity and C#, from gameplay systems and make a g
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,vue,tailwind,nodejs,nestjs,java,spring,python,mongodb,mysql,git,github,figma,unity,cs&perline=10" />
 
+<br> 
+
 <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuAbeyrathna&layout=donut&theme=radical&hide_border=true" 
     alt="Top Languages"
 />
+
+<br> 
 
 </div>
 
