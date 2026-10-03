@@ -6,7 +6,11 @@
 
 ### I design it. I build it. I make it move.
 
+<br>
+
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdrNG9qMmphdnJvZDRoMmF6eWFlOWFrMGoxaGF1cGQ5YXppM2k3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Cq3c0yyomSPx6/giphy.gif" width="175"/>
+
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=building+digital+experiences;exploring+game+development;designing+with+intention;always+learning+something+new" />
 
@@ -27,15 +31,6 @@ I enjoy being somewhere between **design and engineering**.
 I like taking an idea from a rough thought or sketch and turning it into something real, whether that's a web experience, a software system, or a game.
 
 I care about both sides of the process: **how something works and how it feels to use.**
-
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-🎨 designing
-💻 building
-🎮 creating
-🌱 learning
 
 </td>
 </tr>
