@@ -10,20 +10,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=building+digital+experiences;exploring+game+development;designing+with+intention;always+learning+something+new" />
 
-<br>
-
-<a href="https://chathurya-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/ChathuAbeyrathna">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/chathurya-abeyrathna-0888b9286/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 </div>
 
 ---
@@ -46,16 +32,9 @@ I care about both sides of the process: **how something works and how it feels t
 
 <td width="35%" align="center" valign="middle">
 
-### currently
-
-<br>
-
 🎨 designing
-
 💻 building
-
 🎮 creating
-
 🌱 learning
 
 </td>
@@ -68,11 +47,7 @@ I care about both sides of the process: **how something works and how it feels t
 
 ## ✦ The toolbox
 
-<br>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,vue,tailwind,nodejs,nestjs,java,spring,python,mongodb,mysql,git,github,figma,unity,cs&perline=10" />
-
-<br><br>
 
 <sub>the tools I use to turn ideas into things that actually work</sub>
 
@@ -87,15 +62,9 @@ I care about both sides of the process: **how something works and how it feels t
 
 ### 💻 Software
 
-<br>
-
 **Ideas → Interfaces → Systems**
 
-<br>
-
-Building practical digital experiences with a focus on usability, clean interfaces and thoughtful interaction.
-
-<br>
+Building practical digital experiences with a strong focus on usability, clean interfaces and thoughtful interaction.
 
 <a href="https://chathurya-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/SOFTWARE%20DEV%20PORTFOLIO%20%E2%86%92-111111?style=for-the-badge" />
@@ -107,15 +76,9 @@ Building practical digital experiences with a focus on usability, clean interfac
 
 ### 🎮 Games
 
-<br>
-
 **Ideas → Worlds → Experiences**
 
-<br>
-
-Exploring game development with Unity and C#, from gameplay systems to the little details that make a game feel alive.
-
-<br>
+Exploring game development with Unity and C#, from gameplay systems and make a game feel alive.
 
 <a href="https://chathurya07.my.canva.site/game-developer">
 <img src="https://img.shields.io/badge/GAME%20DEV%20PORTFOLIO%20%E2%86%92-111111?style=for-the-badge" />
@@ -132,13 +95,13 @@ Exploring game development with Unity and C#, from gameplay systems to the littl
 
 ## ✦ Most Used Languages
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuAbeyrathna&layout=donut&hide_border=true&theme=transparent&langs_count=5" height="165"/>
-
-<br>
-
-<sub>C# · JavaScript · Python · ShaderLab · Java</sub>
+<!-- Most Used Languages -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuAbeyrathna&layout=donut&theme=radical&hide_border=true" 
+    alt="Top Languages"
+  />
+</p>
 
 </div>
 
@@ -148,17 +111,11 @@ Exploring game development with Unity and C#, from gameplay systems to the littl
 
 ### ✦ Keep scrolling, there might be something interesting.
 
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1500&color=06B6D4&center=true&vCenter=true&width=450&lines=01001000+01101001+%F0%9F%91%8B;thanks+for+stopping+by;see+you+around+%E2%9C%A8" />
 
-<br><br>
-
-<a href="https://chathurya-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK%20%E2%86%92-7C3AED?style=for-the-badge" />
+<a href="https://www.linkedin.com/in/chathurya-abeyrathna-0888b9286/">
+<img src="https://img.shields.io/badge/LINKEDIN%20%E2%86%97-7C3AED?style=for-the-badge" />
 </a>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06B6D4,50:7C3AED,100:111827&section=footer&animation=twinkling" width="100%"/>
 
